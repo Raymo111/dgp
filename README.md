@@ -1,2 +1,2 @@
-# dgp
-Discord Good Privacy - PGP for Discord
+# DGP - Discord Good Privacy
+PGP for Discord
